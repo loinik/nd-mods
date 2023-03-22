@@ -2,7 +2,7 @@
 
 Use these mods to enhance your Nancy Drew games
 
-## Installation Instructions
+## Installation Instruction
 
 1. Select the game and download mod folder.
 
@@ -22,3 +22,9 @@ Use these mods to enhance your Nancy Drew games
 3. Copy all files from mod folder to Ciftree directory.
 
 4. Enjoy your modified game!
+
+## User Guides
+
+### Reaper
+
+If any mod doesn't work, please open the only one `.ini` file in the game root directory and check the `ExternalCifFileChecking` option. There should be 1 after the equal mark. Change if necessary.
