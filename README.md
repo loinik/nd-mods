@@ -5,18 +5,20 @@ Use these mods to enhance your Nancy Drew games.
 ## Table of Contents
 - [List of Mods](#list-of-mods)
 - [Installation Instruction](#installation-instruction)
+- [Uninstallation Instructions](#uninstallation-instructions)
+- [User Guides](#user-guides)
 
 ## List of Mods
 
-### Tomb of the Lost Queen
+### 26. Tomb of the Lost Queen
 
-1. [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Bonus%20Edition%20Unlock)
-2. [Fast Convo](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Fast%20Convo)
+- [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Bonus%20Edition%20Unlock)
+- [Fast Convo](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Fast%20Convo)
 
-### The Deadly Device
+### 27. The Deadly Device
 
-1. [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/27%20DED/Bonus%20Edition%20Unlock)
-2. [Fast Convo](https://github.com/loinik/nd-mods/tree/main/27%20DED/Fast%20Convo)
+- [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/27%20DED/Bonus%20Edition%20Unlock)
+- [Fast Convo](https://github.com/loinik/nd-mods/tree/main/27%20DED/Fast%20Convo)
 
 ## Installation Instruction
 
