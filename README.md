@@ -25,6 +25,6 @@ Use these mods to enhance your Nancy Drew games
 
 ## User Guides
 
-### Reaper
+### Repair
 
 If any mod doesn't work, please open the only one `.ini` file in the game root directory and check the `ExternalCifFileChecking` option. There should be 1 after the equal mark. Change if necessary.
