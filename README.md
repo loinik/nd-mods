@@ -1,6 +1,22 @@
 # Nancy Drew Games Mods
 
-Use these mods to enhance your Nancy Drew games
+Use these mods to enhance your Nancy Drew games.
+
+## Table of Contents
+- [List of Mods](#list-of-mods)
+- [Installation Instruction](#installation-instruction)
+
+## List of Mods
+
+### Tomb of the Lost Queen
+
+1. [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Bonus%20Edition%20Unlock)
+2. [Fast Convo](https://github.com/loinik/nd-mods/tree/main/26%20TMB/Fast%20Convo)
+
+### The Deadly Device
+
+1. [Bonus Edition Unlock](https://github.com/loinik/nd-mods/tree/main/27%20DED/Bonus%20Edition%20Unlock)
+2. [Fast Convo](https://github.com/loinik/nd-mods/tree/main/27%20DED/Fast%20Convo)
 
 ## Installation Instruction
 
@@ -23,8 +39,29 @@ Use these mods to enhance your Nancy Drew games
 
 4. Enjoy your modified game!
 
+## Uninstallation Instruction
+
+1. Open the game root directory:
+
+    Default directory for DVD or herinteractive.com digital versions:
+
+    `C:\Program Files (x86)\Nancy Drew\[Game Title Here]`
+
+    Default directory for Steam versions:
+
+    `C:\Program Files (x86)\Steam\steamapps\common\[Game Title Here]`
+
+    Or right-click on a shortcut (.lnk file) and select Open file 
+    location.
+
+3. Delete all `.cif` file from Ciftree directory.
+
 ## User Guides
 
 ### Repair
 
-If any mod doesn't work, please open the only one `.ini` file in the game root directory and check the `ExternalCifFileChecking` option. There should be 1 after the equal mark. Change if necessary.
+If any mod doesn't work, please open the only one `.ini` file in the game root directory and check the `ExternalCifFileChecking` option. There should be `1` after the equal mark. Change if necessary.
+
+### Disable all mods
+
+If you want to disable all mods in your Nancy Drew game you should change the `ExternalCifFileChecking` option to `0`. This way you don't have to delete anything.
