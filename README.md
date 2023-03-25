@@ -80,7 +80,7 @@ Yes, of course you can! Just contact me via my any [social network profiles](htt
 
 ### Can I make a walkthroughs of ND games with your mods?
 
-Yes. You don't even have to credit me (but even if you do, I'd appreciate it)
+Yes. You don't even have to credit me (but even if you do, I'd appreciate it).
 
 ### Can I upload the archive of your mods on my website?
 
