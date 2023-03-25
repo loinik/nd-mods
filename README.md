@@ -3,14 +3,12 @@
 Use these mods to enhance your Nancy Drew games.
 
 ## Table of Contents
-- [Donate](#donate)
 - [List of Mods](#list-of-mods)
 - [Installation Instruction](#installation-instruction)
 - [Uninstallation Instructions](#uninstallation-instructions)
 - [User Guides](#user-guides)
 - [FAQ](#faq)
-
-## Donate
+- [Donation](#donations)
 
 You can support my activity
 
@@ -95,3 +93,9 @@ These mods or their parts can't be used in any third-part localizations without 
 ### Can I use your mods as a template for my work?
 
 Yes, only for personal usage and if you don't share it with anyone else.
+
+## Donation
+
+If you like what I'm doing you can donate me :)
+
+[![paypal](https://github.com/loinik/nd-mods/images/kofi1.png)](https://ko-fi.com/loinik)
