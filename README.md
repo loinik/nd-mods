@@ -96,6 +96,6 @@ Yes, only for personal usage and if you don't share it with anyone else.
 
 ## Donation
 
-If you like what I'm doing you can donate me :)
+If you find these mods helpful or if you like what I'm doing, you can support me 🫶
 
 [![paypal](https://github.com/loinik/nd-mods/blob/main/images/kofi1.png)](https://ko-fi.com/loinik)
