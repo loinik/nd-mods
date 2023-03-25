@@ -7,7 +7,7 @@ This mod will unlock all these features of Tomb of the Lost Queen game. The Bonu
 - Cell phone games
 - Extra translation hotspots
 - Cell phone charms
-- Ability to call S.P.I.E.D (Strange Phenomenon Inspectors: Extraterrestrial Division) for secret recorded messages
+- Ability to call S.P.I.E.D. (Strange Phenomenon Inspectors: Extraterrestrial Division) for secret recorded messages
 
 ## Conflicts
 
