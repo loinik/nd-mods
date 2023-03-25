@@ -86,7 +86,7 @@ Yes. You don't even have to credit me (but even if you do, I'd appreciate it)
 
 Unfortunately, you can't re-upload these files, but you can share the link! I'll be glad for your sharing and attention to my work ❤️
 
-### Can these mods be used in my game localization?
+### Can these mods be used in any game localization?
 
 These mods are usable only for original games by HeR Interactive in English, and they or their fragments cannot be used as part of any third-part edition or localization without my personal permission, even if you'll credit me. Also, you can't share the way to integrate these mods in any-side game edition or localization, even official ones.
 
