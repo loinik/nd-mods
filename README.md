@@ -92,7 +92,7 @@ These mods are usable only for original games by HeR Interactive in English, and
 
 ### Can I use your mods as a template for my work?
 
-Yes, only for personal usage and if you don't share it with anyone else, including walkthroughs, public screenshots or any other content varieties.
+Yes, only for personal usage and if you don't share it with anyone else, including walkthroughs, screenshots or any other public content varieties.
 
 ## Donation
 
