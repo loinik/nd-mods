@@ -17,4 +17,4 @@ There are no known conflicts of this mod with any other ones in this repository.
 
 If you have any issue using this mod, please contact me via my any [social network profiles](https://linktr.ee/loinik).
 
-![Mod cover](https://github.com/loinik/nd-mods/blob/main/26 TMB/Bonus Edition Unlock/TMB Bonus Edition Unlock.png)
+![Mod cover](https://github.com/loinik/nd-mods/blob/eb08b3f89bf17396e3c150a1866ca4f9f362f18c/26%20TMB/Bonus%20Edition%20Unlock/TMB%20Bonus%20Edition%20Unlock.png)
