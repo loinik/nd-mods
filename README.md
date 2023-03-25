@@ -88,11 +88,11 @@ Unfortunately, you can't re-upload these files, but you can share the link! I'll
 
 ### Can these mods be used in my game localization?
 
-These mods or their parts can't be used in any third-part localizations without my personal permission, even if you'll credit me. Also, you can't share the way to integrate these mods in any-side game localization, even official ones.
+These mods are usable only for original games by HeR Interactive in English, and they or their fragments cannot be used as part of any third-part edition or localization without my personal permission, even if you'll credit me. Also, you can't share the way to integrate these mods in any-side game edition or localization, even official ones.
 
 ### Can I use your mods as a template for my work?
 
-Yes, only for personal usage and if you don't share it with anyone else.
+Yes, only for personal usage and if you don't share it with anyone else, including walkthroughs, public screenshots or any other content varieties.
 
 ## Donation
 
