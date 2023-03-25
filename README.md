@@ -1,6 +1,6 @@
 # Nancy Drew Games Mods
 
-Use these mods to enhance your Nancy Drew games.
+Do you ever think about any kind of mods for Nancy Drew Games? Could you ever want to unlock some feature of newer games or customize your game and make it more individual? Now you can use these mods to enhance your Nancy Drew games.
 
 ## Table of Contents
 - [List of Mods](#list-of-mods)
