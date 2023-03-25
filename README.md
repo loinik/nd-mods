@@ -98,4 +98,4 @@ Yes, only for personal usage and if you don't share it with anyone else.
 
 If you like what I'm doing you can donate me :)
 
-[![paypal](https://github.com/loinik/nd-mods/images/kofi1.png)](https://ko-fi.com/loinik)
+[![paypal](https://github.com/loinik/nd-mods/blob/main/images/kofi1.png)](https://ko-fi.com/loinik)
